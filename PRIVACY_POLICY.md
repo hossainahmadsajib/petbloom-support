@@ -10,7 +10,6 @@ PetBloom is built around a simple principle: your data is yours, and we collect 
 
 - **We do not collect, transmit, or sell any personal information.**
 - All your focus history, streaks, gem balance, and cat customization is stored locally on your device.
-- If you sign in to iCloud, your data may sync across your Apple devices via Apple's encrypted iCloud service. We never see this data.
 - Purchases are processed by Apple's App Store. We never see your payment information.
 - We do not use third-party analytics, advertising, or tracking SDKs.
 
@@ -30,7 +29,6 @@ PetBloom is built around a simple principle: your data is yours, and we collect 
 
 - **Purchase information**: When you purchase PetBloom Pro (monthly, yearly, or lifetime) or any future in-app product, the transaction is handled by Apple's App Store via StoreKit. We receive a verification token confirming your purchase status (active or not), but we never receive your name, payment method, or contact information.
 - **Notification permission**: If you grant permission, PetBloom uses iOS's local notification system to remind you about focus sessions. Notifications are scheduled and delivered entirely on your device. No notification content is sent through any server.
-- **iCloud sync (if enabled)**: If you sign in to iCloud and choose to sync, your focus history may be synchronized across your Apple devices through Apple's iCloud service. This data is end-to-end encrypted in many cases by Apple. See Apple's iCloud privacy documentation for details. We never have access to your iCloud data.
 
 ## How We Use Information
 
@@ -44,9 +42,8 @@ We do not use your information for any purpose beyond running the app on your de
 ## Data Retention and Deletion
 
 - All data is stored locally on your device. You can delete it at any time by:
-  - Removing individual items inside the app's Settings → Data & Privacy section
+  - Using **Delete All Data** in the app's Settings → Data & Privacy section
   - Deleting the app from your device, which removes all local data
-  - Disabling iCloud sync in iOS Settings → [Your Name] → iCloud, which removes synced data from iCloud
 
 ## Children's Privacy
 
@@ -54,13 +51,13 @@ PetBloom is not directed to children under 13. We do not knowingly collect any i
 
 ## Photos and Camera
 
-If you choose to upload a photo of your cat as your in-app pet, PetBloom requests permission to access your Photos library through the standard iOS permission prompt. The photo you select is:
+If you choose to upload a photo of your cat as your in-app pet, PetBloom uses the standard iOS photo picker, which only gives the app the single photo you select — it cannot see the rest of your library. The photo you select is:
 
 - Cropped to a square preview
 - Saved to the app's local Documents directory only
 - Never uploaded, shared, or transmitted
 
-You can remove the uploaded photo at any time inside the app's Settings → My Cat section. You can also revoke Photos access in iOS Settings → Privacy → Photos at any time.
+You can remove the uploaded photo at any time inside the app's Settings → My Cat section.
 
 ## Notifications
 
@@ -71,7 +68,6 @@ If you grant notification permission, PetBloom can send you reminders about focu
 PetBloom integrates with the following Apple-provided services. Each has its own privacy practices:
 
 - **Apple App Store / StoreKit** — for handling in-app purchases. See [Apple's App Store Privacy Policy](https://www.apple.com/legal/internet-services/itunes/).
-- **Apple iCloud** (if you enable sync) — for syncing app data across your Apple devices. See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 - **Apple UserNotifications** — for scheduling local reminders. No data leaves your device.
 
 PetBloom does not integrate with Google Analytics, Firebase, Mixpanel, Amplitude, Facebook SDK, Branch, AppsFlyer, Adjust, or any other third-party analytics or attribution service.

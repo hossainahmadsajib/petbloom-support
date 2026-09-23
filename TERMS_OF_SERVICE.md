@@ -16,7 +16,7 @@ If you are under 18, your parent or legal guardian must also agree to these Term
 
 ## 3. Your Account and Data
 
-PetBloom does not require you to create an account. All your data is stored locally on your device, and optionally synced through your Apple iCloud account if you enable that. You are responsible for safeguarding access to your device and Apple ID.
+PetBloom does not require you to create an account. All your data is stored locally on your device. You are responsible for safeguarding access to your device and Apple ID.
 
 ## 4. PetBloom Pro and Other In-App Purchases
 
@@ -41,7 +41,7 @@ The Lifetime purchase grants you access to all current PetBloom Pro features for
 
 ### Virtual currency (gems)
 
-Gems earned in PetBloom have no real-world cash value, are not redeemable, and cannot be transferred between accounts or devices except through iCloud sync of your own data. Gems are not your property — they are a license to use a feature within the app, and we may modify gem balance, earning rates, or pricing for cosmetic items at any time.
+Gems earned in PetBloom have no real-world cash value, are not redeemable, and cannot be transferred between accounts or devices. Gems are not your property — they are a license to use a feature within the app, and we may modify gem balance, earning rates, or pricing for cosmetic items at any time.
 
 ## 5. Acceptable Use
 
