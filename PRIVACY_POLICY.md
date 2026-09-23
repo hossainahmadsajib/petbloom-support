@@ -9,7 +9,7 @@ PetBloom is built around a simple principle: your data is yours, and we collect 
 ## Summary
 
 - **We do not collect, transmit, or sell any personal information.**
-- All your focus history, streaks, gem balance, and cat customization is stored locally on your device.
+- All your focus history, streaks, gem balance, and cat customization is stored on your device and backed up to your own private iCloud account (if you're signed in to iCloud). We never see this data.
 - Purchases are processed by Apple's App Store. We never see your payment information.
 - We do not use third-party analytics, advertising, or tracking SDKs.
 
@@ -41,9 +41,9 @@ We do not use your information for any purpose beyond running the app on your de
 
 ## Data Retention and Deletion
 
-- All data is stored locally on your device. You can delete it at any time by:
+- Your data is stored on your device and in your private iCloud account. You can delete it at any time by:
   - Using **Delete All Data** in the app's Settings → Data & Privacy section
-  - Deleting the app from your device, which removes all local data
+  - Deleting the app from your device, which removes all local data (your iCloud backup remains until you use Delete All Data or remove PetBloom's data in iOS Settings → [your name] → iCloud → Manage Storage)
 
 ## Children's Privacy
 
@@ -69,6 +69,7 @@ PetBloom integrates with the following Apple-provided services. Each has its own
 
 - **Apple App Store / StoreKit** — for handling in-app purchases. See [Apple's App Store Privacy Policy](https://www.apple.com/legal/internet-services/itunes/).
 - **Apple UserNotifications** — for scheduling local reminders. No data leaves your device.
+- **Apple iCloud (CloudKit and iCloud key-value storage)** — to back up your focus history and your cat's progress to your own private iCloud account, so it comes back if you reinstall the app or get a new iPhone. This data is stored in your iCloud account, not on our servers, and we cannot access it. You can turn off iCloud for PetBloom in iOS Settings → [your name] → iCloud. See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 PetBloom does not integrate with Google Analytics, Firebase, Mixpanel, Amplitude, Facebook SDK, Branch, AppsFlyer, Adjust, or any other third-party analytics or attribution service.
 

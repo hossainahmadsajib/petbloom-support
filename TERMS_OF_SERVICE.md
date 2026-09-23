@@ -16,7 +16,7 @@ If you are under 18, your parent or legal guardian must also agree to these Term
 
 ## 3. Your Account and Data
 
-PetBloom does not require you to create an account. All your data is stored locally on your device. You are responsible for safeguarding access to your device and Apple ID.
+PetBloom does not require you to create an account. Your data is stored on your device and backed up to your own private iCloud account. You are responsible for safeguarding access to your device and Apple ID.
 
 ## 4. PetBloom Pro and Other In-App Purchases
 
