@@ -1,8 +1,8 @@
 # Terms of Service for PetBloom
 
-_Last updated: September 23, 2026_
+_Last updated: October 7, 2026_
 
-These Terms of Service ("Terms") govern your use of the PetBloom mobile application ("PetBloom", "the app", "we", "our"). By downloading, installing, or using PetBloom, you agree to these Terms. If you do not agree, do not use the app.
+These Terms of Service ("Terms") govern your use of the PetBloom mobile application ("PetBloom", "the app"), published by Dinero Automation LLC ("we", "our"). By downloading, installing, or using PetBloom, you agree to these Terms. If you do not agree, do not use the app.
 
 ## 1. The App
 
@@ -93,7 +93,3 @@ If you are an EU/EEA or UK consumer, nothing in these Terms removes your statuto
 ## 13. Contact
 
 For questions about these Terms, contact us at descendsajib007@gmail.com.
-
----
-
-_These Terms were prepared for PetBloom. They are provided as a starting template and do not constitute legal advice. Before publishing, replace bracketed placeholders, and have a qualified attorney review the document if your app handles unusual content, operates in regulated industries, or targets specific jurisdictions._

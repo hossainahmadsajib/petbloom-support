@@ -1,8 +1,8 @@
 # Privacy Policy for PetBloom
 
-_Last updated: September 23, 2026_
+_Last updated: October 7, 2026_
 
-This Privacy Policy describes how PetBloom ("we", "our", or "the app") handles information when you use the PetBloom mobile application on iOS.
+This Privacy Policy describes how PetBloom ("we", "our", or "the app") handles information when you use the PetBloom mobile application on iOS. PetBloom is published by Dinero Automation LLC.
 
 PetBloom is built around a simple principle: your data is yours, and we collect as little as possible.
 
@@ -94,7 +94,3 @@ We may update this Privacy Policy when we ship significant new features (for exa
 ## Contact
 
 If you have questions about this Privacy Policy, please email descendsajib007@gmail.com.
-
----
-
-_This policy was prepared for PetBloom. It is provided as a starting template and does not constitute legal advice. If your jurisdiction has specific privacy law requirements, consult a qualified attorney before publishing._
